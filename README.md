@@ -1,7 +1,7 @@
 # YouTube Clone
 
-![HTML](https://img.shields.io/badge/HTML5-Structure-orange)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 A simple **YouTube homepage clone** built using **HTML and CSS**.  
 This project recreates the basic layout of YouTube, including the header, sidebar navigation, and video grid. The goal of the project is to demonstrate fundamental front-end development concepts such as page structure, layout design, and styling using pure HTML and CSS.
@@ -85,6 +85,13 @@ Since this is a static project, no dependencies or build tools are required.
 ## Screenshot
 
 ![YouTube Clone Screenshot](screenshots/youtube-clone.png)
+
+---
+
+## Disclaimer
+
+This project is created for educational purposes only.
+It is not affiliated with, endorsed by, or associated with YouTube or Google.
 
 ---
 
